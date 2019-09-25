@@ -1,4 +1,4 @@
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rdubnic2/2019-htrc-fall-workshops/master)
 
 # Fall 2019 HTRC Workshop materials
 Materials to support the fall 2019 HTRC workshops. Includes:
