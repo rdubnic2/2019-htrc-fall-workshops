@@ -10,4 +10,4 @@ dependencies:
   - cartopy
   - time
   - scikit-learn
-  - htrc
+  - htrc htrc-feature-reader
