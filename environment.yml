@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - psutil
+  - matplotlib
+  - pandas
+  - geopy
+  - nltk
+  - cartopy
+  - time
+  - sklearn
+  - htrc_features
+  - glob
