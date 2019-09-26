@@ -10,5 +10,5 @@ dependencies:
   - cartopy
   - time
   - scikit-learn
-  - htrc_features
-  - glob
+  - htrc-feature-reader
+  - glob3
