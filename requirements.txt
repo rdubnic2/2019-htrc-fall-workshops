@@ -1,8 +1,0 @@
-numpy
-matplotlib
-pandas
-geopy
-nltk
-scikit-learn
-htrc-feature-reader
-scipy-cartopy
