@@ -1,5 +1,7 @@
+name: htrc-fall2019-workshops
 channels:
   - conda-forge
+  - htrc
 dependencies:
   - python==3.7
   - numpy
@@ -8,5 +10,5 @@ dependencies:
   - geopy
   - nltk
   - scikit-learn
-  - htrc htrc-feature-reader
+  - htrc-feature-reader
   - cartopy
