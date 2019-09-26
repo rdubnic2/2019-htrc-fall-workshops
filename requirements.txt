@@ -6,7 +6,6 @@ dill
 pandas
 geopy
 nltk
-string
 cartopy
 time
 sklearn
