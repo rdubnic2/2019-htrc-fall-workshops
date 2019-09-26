@@ -6,6 +6,7 @@ dill
 pandas
 geopy
 nltk
+Proj
 GEOS
 cartopy
 time
