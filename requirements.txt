@@ -3,7 +3,6 @@ matplotlib
 pandas
 geopy
 nltk
-time
 geos
 scikit-learn
 htrc-feature-reader
