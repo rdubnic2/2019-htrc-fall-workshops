@@ -3,9 +3,9 @@ matplotlib
 pandas
 geopy
 nltk
-geos
-proj
-cartopy
 time
+geos
 scikit-learn
 htrc-feature-reader
+proj==4.9
+cartopy
