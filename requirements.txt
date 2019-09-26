@@ -3,8 +3,9 @@ matplotlib
 pandas
 geopy
 nltk
-proj4
+geos
+proj
 cartopy
 time
 scikit-learn
-Htrc-feature-reader
+htrc-feature-reader
