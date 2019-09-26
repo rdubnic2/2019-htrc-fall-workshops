@@ -8,5 +8,5 @@ dependencies:
   - geopy
   - nltk
   - scikit-learn
-  - htrc-feature-reader
+  - htrc htrc-feature-reader
   - cartopy
