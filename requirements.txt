@@ -3,8 +3,6 @@ matplotlib
 pandas
 geopy
 nltk
-geos
 scikit-learn
 htrc-feature-reader
-proj==4.9
-cartopy
+scipy-cartopy
