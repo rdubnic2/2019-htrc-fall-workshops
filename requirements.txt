@@ -6,7 +6,7 @@ dill
 pandas
 geopy
 nltk
-Proj
+Proj==4.9.0
 GEOS
 cartopy
 time
