@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+dependencies:
+  - python==3.7
+  - numpy
+  - matplotlib
+  - pandas
+  - geopy
+  - nltk
+  - scikit-learn
+  - htrc-feature-reader
+  - cartopy
